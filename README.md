@@ -20,7 +20,7 @@ The dataset used in this project is a collection of annotated text data containi
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/ner_finetuning_spacy.git
+   git clone https://github.com/Shahrishi4324/ner_finetuning_spacy.git
    ```
 2. Run with:
    ```bash
